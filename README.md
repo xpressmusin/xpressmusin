@@ -7,17 +7,17 @@ Hello! I'm Muhsin Moideen Kutty, an experienced Automation Engineer with a robus
 - **Name:** Muhsin Moideen Kutty
 - **Location:** Qatar (Originally from India)
 - **Education:** B.Tech in Electronics and Communication
-- **Certifications:** Profibus PI North America, Omron Automation
+- **Certifications:** Industrial Automation, Industrial Instrumentation, Systems Enginering, Profibus PI North America, Omron Automation
 - **Experience:** Over 8 years in Industrial Automation
 - **Current Role:** Engineer at ADMA Automation Systems, Qatar
 
 ## 💼 Professional Experience
 
 ### Roles and Companies
-- **SMEC Automation** - Automation Engineer
-- **Freelance Work** - Automation Projects
-- **Sunlux Technovations** - Power Automation
-- **ADMA Automation Systems** - Industrial Automation in Qatar
+- **SMEC Automation** - Instrumentation & Control Engineer
+- **Freelance Work** - Automation & Control Engineer
+- **Sunlux Technovations** - Systems Engineer
+- **ADMA Automation Systems** - Automation Engineer
 
 ### Notable Projects
 - **BEL Hyderabad 33kV Power Automation**
