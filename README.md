@@ -53,7 +53,7 @@ I'm currently diving deep into grid automation to expand my expertise in this ar
 Feel free to reach out to me for collaboration, discussion, or any queries related to industrial automation. I'm always open to connecting with fellow professionals and enthusiasts in the field.
 
 - **Email:** xpressmusin@gmail.com
-- **LinkedIn:** [Muhsin Moideen Kutty](https://www.linkedin.com/in/muhsin-moideen-kutty)
+- **LinkedIn:** [Muhsin Moideen Kutty](https://www.linkedin.com/in/muhsinmoideenkutty)
 
 ## 🎯 Goals
 - Enhance my skills in grid automation.
