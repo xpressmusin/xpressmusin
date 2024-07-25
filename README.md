@@ -1,4 +1,4 @@
-# 👋 Welcome to Muhsin Moideen Kutty's GitHub
+# 👋 Welcome to Muhsin's GitHub
 
 Hello! I'm Muhsin Moideen Kutty, an experienced Automation Engineer with a robust background in Industrial Automation. I specialize in various automation technologies and have worked on several significant projects across different sectors.
 
