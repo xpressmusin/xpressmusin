@@ -9,7 +9,7 @@ Hello! I'm Muhsin Moideen Kutty, an experienced Automation Engineer with a robus
 - **Education:** B.Tech in Electronics and Communication
 - **Certifications:** Industrial Automation, Industrial Instrumentation, Systems Enginering, Profibus PI North America, Omron Automation
 - **Experience:** Over 8 years in Industrial Automation
-- **Current Role:** Engineer at ADMA Automation Systems, Qatar
+- **Current Role:** Engineer at ADMA Automation Solutions, Qatar
 
 ## 💼 Professional Experience
 
